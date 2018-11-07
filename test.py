@@ -5,13 +5,13 @@ print('hello world')
 import math
 from math import pi
 r = 4
-c = 2*math.pi*r
-print(c)
+
+def circumference(r):
+    return 2*math.pi*r
 
 ##surface area of a circle
 
-a = math.pi*r**2
-print(a)
-
+def area(a):
+     return math.pi*r**2
 
 #Did it work?
