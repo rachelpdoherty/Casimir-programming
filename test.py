@@ -15,3 +15,4 @@ def area(a):
      return math.pi*r**2
 
 #Did it work?
+"""YEs we are so smart"""
